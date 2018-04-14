@@ -2,7 +2,7 @@
 
 # Sceleton-Demo (демо версия каркаса с адаптивной версткой)
 
-<p align="center"><img src="./video/video.gif" /></p>
+<p align="center"><img src="./video/video.gif" width="550" height="263" alt="video loading ..." /></p>
 
 ## Описание
 
